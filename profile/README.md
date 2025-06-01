@@ -1,4 +1,4 @@
-# 🧠 AWS AI 기반 일기 커뮤니티
+# 🧠 AI 기반 일기 커뮤니티
 
 > **INHA CloudComputing Project 09**  
 > 인하대학교 클라우드 컴퓨팅 9팀 프로젝트입니다.  
