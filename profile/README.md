@@ -28,7 +28,8 @@
 
 ## 🧩 아키텍처 개요
 
-![architecture](https://github.com/user-attachments/assets/a4804f36-6841-467a-8768-2869805538ee)
+![image](https://github.com/user-attachments/assets/0515860b-ec19-461a-8f18-5372554a23dc)
+
 
 ---
 
