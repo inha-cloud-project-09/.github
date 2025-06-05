@@ -7,8 +7,8 @@
 
 ## 📌 프로젝트 소개
 
-- 🧾 **AI기반 감정 분석 일기 커뮤니티 서비스**
-- 🤝 **AI를 활용한 음성 분석, 이미지 분석, 텍스트 분석, 감정 분석**
+- 🧾 **AI기반 과거 회고, 감정 분석 일기 커뮤니티 서비스**
+- 🤝 **AI를 활용한 음성 분석, 이미지 분석, 텍스트 분석, 감정 분석, 과거 데이터 분석**
 - ☁️ **MSA 설계 원칙을 적용한 서버리스 감정 분석 플랫폼**
 - 🔁 **CloudWatch와 Lambda를 활용한 자동화**
 - ☁️ **API Gateway 중심의 REST API 설계**
@@ -20,7 +20,7 @@
 
 | 분류       | 기술 스택                                                                 |
 |------------|--------------------------------------------------------------------------|
-| **Cloud**  | AWS (EC2, Lambda, RDS, S3, API Gateway, Bedrock, SNS, SQS)              |
+| **Cloud**  | AWS (EC2, Lambda, RDS, S3, API Gateway, Bedrock, Comprehend, SNS, SQS)   |
 | **Backend**| Python, Spring Boot, MySQL                                              |
 | **Frontend**| React                                                                   |
 | **DevOps** | GitHub, AWS IAM, CloudWatch                                             |
