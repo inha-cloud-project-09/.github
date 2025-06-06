@@ -39,7 +39,7 @@
 | **Cloud**  | AWS (EC2, Lambda, RDS, S3, API Gateway, Bedrock, Comprehend, SNS, SQS)   |
 | **Backend**| Python, Spring Boot, MySQL                                              |
 | **Frontend**| React                                                                   |
-| **DevOps** | GitHub, AWS IAM, CloudWatch                                             |
+| **DevOps** | GitHub, AWS IAM, CloudWatch, Slack                                             |
 | **AI**     | Claude 3.5 Sonnet, AWS Comprehend, 자체 제작 음성분석 모델           |
 
 ---
