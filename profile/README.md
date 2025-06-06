@@ -24,7 +24,7 @@
 | **Backend**| Python, Spring Boot, MySQL                                              |
 | **Frontend**| React                                                                   |
 | **DevOps** | GitHub, AWS IAM, CloudWatch                                             |
-| **AI**     | Amazon Bedrock (Claude 3.5 Sonnet), 감정 분석 및 벡터 임베딩           |
+| **AI**     | Claude 3.5 Sonnet, AWS Comprehend, 자체 제작 음성분석 모델           |
 
 ---
 
