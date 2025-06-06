@@ -30,7 +30,8 @@
 
 ## 🧩 아키텍처 개요
 
-<img width="965" alt="스크린샷 2025-06-06 16 23 06" src="https://github.com/user-attachments/assets/180b019a-4ae4-4eb0-8ab2-52fb6afcada7" />
+<img width="1097" alt="스크린샷 2025-06-06 16 30 21" src="https://github.com/user-attachments/assets/3ff3b267-0268-4a67-97cb-aecd5dc67eed" />
+
 
 
 
