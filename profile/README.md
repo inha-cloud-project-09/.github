@@ -56,8 +56,9 @@
 ---
 
 ## 🧩 아키텍처 개요
+![Uploading 스크린샷 2025-06-15 23.02.52.png…]()
 
-<img width="1007" alt="스크린샷 2025-06-15 22 51 22" src="https://github.com/user-attachments/assets/9bd7465a-eeff-43e1-9287-a61a667faf63" />
+
 
 
 
