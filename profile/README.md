@@ -51,7 +51,7 @@
 | **Backend**| Python, Spring Boot, MySQL                                              |
 | **Frontend**| React, NextJS                                                                |
 | **DevOps** | GitHub, AWS IAM, CloudWatch, Slack                                             |
-| **AI**     | Claude 3.5 Sonnet, AWS Comprehend, 자체 제작 AI모델           |
+| **AI**     | Claude 3.5 Sonnet, AWS Comprehend, AWS Polly, 자체 제작 AI모델           |
 
 ---
 
