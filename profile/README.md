@@ -56,7 +56,8 @@
 ---
 
 ## 🧩 아키텍처 개요
-<img width="860" alt="스크린샷 2025-06-15 21 47 43" src="https://github.com/user-attachments/assets/b0816fe2-b991-41cf-a4eb-f4bc64230447" />
+<img width="859" alt="스크린샷 2025-06-15 22 23 34" src="https://github.com/user-attachments/assets/f49eb8b7-0b08-4b67-9d50-5b92eae5e1eb" />
+
 
 
 ---
