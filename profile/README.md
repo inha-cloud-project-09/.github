@@ -49,7 +49,7 @@
 |------------|--------------------------------------------------------------------------|
 | **Cloud**  | AWS (EC2, Lambda, RDS, S3, API Gateway, Bedrock, Comprehend, SNS, SQS)   |
 | **Backend**| Python, Spring Boot, MySQL                                              |
-| **Frontend**| React                                                                   |
+| **Frontend**| React, NextJS                                                                |
 | **DevOps** | GitHub, AWS IAM, CloudWatch, Slack                                             |
 | **AI**     | Claude 3.5 Sonnet, AWS Comprehend, 자체 제작 AI모델           |
 
