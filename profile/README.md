@@ -47,7 +47,7 @@
 
 | 분류       | 기술 스택                                                                 |
 |------------|--------------------------------------------------------------------------|
-| **Cloud**  | AWS (EC2, Lambda, RDS, S3, API Gateway, Bedrock, Comprehend, SNS, SQS)   |
+| **Cloud**  | AWS (EC2, Lambda, RDS, API Gateway, Bedrock, Comprehend, Pollo, SNS, SQS)   |
 | **Backend**| Python, Spring Boot, MySQL                                              |
 | **Frontend**| React, NextJS                                                                |
 | **DevOps** | GitHub, AWS IAM, CloudWatch, Slack                                             |
