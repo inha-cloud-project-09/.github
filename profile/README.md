@@ -83,3 +83,13 @@
 ### 날씨 데이터 기반 감정 예측
 <img width="1042" alt="스크린샷 2025-06-15 21 49 28" src="https://github.com/user-attachments/assets/8a6674cd-c34e-429e-b488-403af8187144" />
 
+## DB 스키마
+---
+<img width="1430" alt="스크린샷 2025-06-16 16 26 15" src="https://github.com/user-attachments/assets/c69242a2-fae0-4860-966d-f5a13d446fb4" />
+
+---
+
+## UX 차트
+<img width="1081" alt="스크린샷 2025-06-16 16 40 09" src="https://github.com/user-attachments/assets/0b7b9785-2c62-4114-8e76-742e6d29b8ac" />
+<img width="363" alt="스크린샷 2025-06-16 16 41 12" src="https://github.com/user-attachments/assets/8773eaa2-903f-4089-8f8e-27305e6af395" />
+
