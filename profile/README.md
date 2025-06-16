@@ -99,8 +99,8 @@
 
 ---
 
-## UX 차트
-<img width="1081" alt="스크린샷 2025-06-16 16 40 09" src="https://github.com/user-attachments/assets/0b7b9785-2c62-4114-8e76-742e6d29b8ac" />
-<img width="363" alt="스크린샷 2025-06-16 16 41 12" src="https://github.com/user-attachments/assets/8773eaa2-903f-4089-8f8e-27305e6af395" />
+## UX Flow 차트
+<img width="473" alt="스크린샷 2025-06-16 16 51 17" src="https://github.com/user-attachments/assets/d220d494-e018-4065-879a-deb0c2da07c0" />
+
 
 ---
