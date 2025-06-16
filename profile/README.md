@@ -70,7 +70,11 @@
 ## 사용 예시
 ### AI 일기 분석 회고
 <img width="762" alt="스크린샷 2025-06-15 21 39 41" src="https://github.com/user-attachments/assets/c4f32c57-3b3c-42ba-b682-87e1b0db3381" />
+
+
 ---
+
+
 ### 일기 데이터를 기반으로 AI와 음성 대화
 <img width="839" alt="스크린샷 2025-06-15 21 39 10" src="https://github.com/user-attachments/assets/5df0b20e-8564-4c09-8112-578b7a880664" />
 
