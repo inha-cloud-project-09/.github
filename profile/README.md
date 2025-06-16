@@ -41,7 +41,7 @@
 - 🔔 Slack 채널과 연동하여 **일기 작성, 감정 분석, 클러스터링** 등 이벤트를 실시간으로 모니터링할 수 있습니다.
 <img width="854" alt="스크린샷 2025-06-10 12 00 14" src="https://github.com/user-attachments/assets/6a9a4dd5-90e5-4666-bd99-be3f5f1aedd0" />
 <img width="753" alt="스크린샷 2025-06-15 21 41 03" src="https://github.com/user-attachments/assets/0026a9c7-86f4-4268-b610-b37d2e69e2d5" />
-
+---
 
 ## 🛠️ 주요 기술 스택
 
@@ -69,20 +69,20 @@
 ## 사용 예시
 ### AI 일기 분석 회고
 <img width="762" alt="스크린샷 2025-06-15 21 39 41" src="https://github.com/user-attachments/assets/c4f32c57-3b3c-42ba-b682-87e1b0db3381" />
-
+---
 ### 일기 데이터를 기반으로 AI와 음성 대화
 <img width="839" alt="스크린샷 2025-06-15 21 39 10" src="https://github.com/user-attachments/assets/5df0b20e-8564-4c09-8112-578b7a880664" />
-
+---
 ### 감정과 일기 데이터 기반 AI 회복 루틴 제공
 <img width="760" alt="스크린샷 2025-06-15 21 52 01" src="https://github.com/user-attachments/assets/1136180a-a995-478c-aff0-615241503eb9" />
 <img width="750" alt="스크린샷 2025-06-15 21 52 26" src="https://github.com/user-attachments/assets/7843b2c5-63ec-46d9-810a-7b049002fee1" />
 <img width="741" alt="스크린샷 2025-06-15 21 52 46" src="https://github.com/user-attachments/assets/43e018ee-ad39-46ce-b282-5923d357f1ee" />
 <img width="262" alt="스크린샷 2025-06-15 21 53 18" src="https://github.com/user-attachments/assets/1479c1dc-f5df-4ba0-9e33-e12cb39df349" />
 
-
+---
 ### 날씨 데이터 기반 감정 예측
 <img width="1042" alt="스크린샷 2025-06-15 21 49 28" src="https://github.com/user-attachments/assets/8a6674cd-c34e-429e-b488-403af8187144" />
-
+---
 ## DB 스키마
 ---
 <img width="1430" alt="스크린샷 2025-06-16 16 26 15" src="https://github.com/user-attachments/assets/c69242a2-fae0-4860-966d-f5a13d446fb4" />
