@@ -66,13 +66,16 @@
 
 
 ---
+
 ## 사용 예시
 ### AI 일기 분석 회고
 <img width="762" alt="스크린샷 2025-06-15 21 39 41" src="https://github.com/user-attachments/assets/c4f32c57-3b3c-42ba-b682-87e1b0db3381" />
 ---
 ### 일기 데이터를 기반으로 AI와 음성 대화
 <img width="839" alt="스크린샷 2025-06-15 21 39 10" src="https://github.com/user-attachments/assets/5df0b20e-8564-4c09-8112-578b7a880664" />
+
 ---
+
 ### 감정과 일기 데이터 기반 AI 회복 루틴 제공
 <img width="760" alt="스크린샷 2025-06-15 21 52 01" src="https://github.com/user-attachments/assets/1136180a-a995-478c-aff0-615241503eb9" />
 <img width="750" alt="스크린샷 2025-06-15 21 52 26" src="https://github.com/user-attachments/assets/7843b2c5-63ec-46d9-810a-7b049002fee1" />
@@ -80,11 +83,14 @@
 <img width="262" alt="스크린샷 2025-06-15 21 53 18" src="https://github.com/user-attachments/assets/1479c1dc-f5df-4ba0-9e33-e12cb39df349" />
 
 ---
+
 ### 날씨 데이터 기반 감정 예측
 <img width="1042" alt="스크린샷 2025-06-15 21 49 28" src="https://github.com/user-attachments/assets/8a6674cd-c34e-429e-b488-403af8187144" />
+
 ---
+
 ## DB 스키마
----
+
 <img width="1430" alt="스크린샷 2025-06-16 16 26 15" src="https://github.com/user-attachments/assets/c69242a2-fae0-4860-966d-f5a13d446fb4" />
 
 ---
@@ -93,3 +99,4 @@
 <img width="1081" alt="스크린샷 2025-06-16 16 40 09" src="https://github.com/user-attachments/assets/0b7b9785-2c62-4114-8e76-742e6d29b8ac" />
 <img width="363" alt="스크린샷 2025-06-16 16 41 12" src="https://github.com/user-attachments/assets/8773eaa2-903f-4089-8f8e-27305e6af395" />
 
+---
