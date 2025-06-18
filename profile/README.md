@@ -36,6 +36,10 @@
   감정 분석, 회고 추천, 클러스터링, 커뮤니티 기능을 각각 독립된 Lambda 함수로 분리하여  
   유지보수와 배포가 효율적인 구조를 구현합니다.
 
+- 📄 **License**
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+
 - 🌐 **RESTful API 설계**
 
 - 🔔 Slack 채널과 연동하여 **일기 작성, 감정 분석, 클러스터링** 등 이벤트를 실시간으로 모니터링할 수 있습니다.
