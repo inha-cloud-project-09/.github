@@ -24,7 +24,7 @@
 
 - ☁️ **AWS 기반 서버리스 인프라 구성**  
   Lambda, S3, RDS, API Gateway, SNS/SQS, CloudWatch 등  
-  AWS 자원을 활용하여 유연하고 확장 가능한 MSA 아키텍처를 설계합니다.
+  AWS 자원을 활용하여 유연하고 확장 가능한 아키텍처를 설계합니다.
 
 - 🔁 **CloudWatch, SNS, SQS 기반 정기 자동화 파이프라인**  
   매일 새벽 1시, CloudWatch 스케줄러가 실행되며  
